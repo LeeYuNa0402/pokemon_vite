@@ -1,0 +1,77 @@
+.grass {
+  display: inline-block;
+  background-color: gray;
+  padding: 3px 22px 8px;
+  margin-right: 5px;
+  border-radius: 14px;
+  background-color: green;
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+.water {
+  display: inline-block;
+  background-color: gray;
+  padding: 3px 22px 8px;
+  margin-right: 5px;
+  border-radius: 14px;
+  background-color: #467fd6;
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.fire {
+  display: inline-block;
+  padding: 3px 22px 8px;
+  margin-right: 5px;
+  border-radius: 14px;
+  background-color: red;
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.bug {
+  display: inline-block;
+  padding: 3px 22px 8px;
+  margin-right: 5px;
+  border-radius: 14px;
+  background-color: #857964;
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.normal {
+  display: inline-block;
+  padding: 3px 22px 8px;
+  margin-right: 5px;
+  border-radius: 14px;
+  background-color: #949495;
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.poison {
+  display: inline-block;
+  padding: 3px 22px 8px;
+  margin-right: 5px;
+  border-radius: 14px;
+  background-color: rgb(160, 43, 160);
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.flying {
+  display: inline-block;
+  padding: 3px 22px 8px;
+  margin-right: 5px;
+  border-radius: 14px;
+  background-color: skyblue;
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
